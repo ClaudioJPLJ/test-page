@@ -317,6 +317,7 @@ footer{
 
     #initialInfo, #name{
         justify-self: center;
+        margin: auto;
     }
 
     main{
